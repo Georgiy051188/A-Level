@@ -1,10 +1,10 @@
 import org.w3c.dom.Node;
 
 public class Node {
-    private int frequence;//частота
-    private char letter;//буква
-    private Node leftChild;//левый потомок
-    private Node rightChild;//правый потомок
+    private int frequence;
+    private char letter;
+    private Node leftChild;
+    private Node rightChild;
 
 
 
